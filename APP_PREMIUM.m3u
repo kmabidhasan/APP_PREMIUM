@@ -248,7 +248,7 @@ http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 ───────────────────────────────────────────────────────────────────────────────────────────────────
               ADMIN JOYOSH Responsibility group 
 
-#EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", BTV HD
+#EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", BTV WORLD
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", BTV CHATTOGRAM
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
@@ -257,15 +257,15 @@ https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", CHANNEL I HD
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", EKUSHEY TV
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", NTV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", RTV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", BOISHAKHI TV HD
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", BANGLA VISION
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", DESH TV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", MY TV
@@ -281,17 +281,17 @@ https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", GAZI TV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", DEEPTO TV
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", NAGORIK TV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", BANGLA TV
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=2320231
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", ANANDA TV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", MOVIE BANGLA
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD | ENTERTAINMENT", EKHON TV
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", PEACE TV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
