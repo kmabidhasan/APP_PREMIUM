@@ -1,12 +1,12 @@
 #EXTM3U × StreamFy BD (Abid Hasan) (Arup) (Joyesh Biswas) (Kasin)
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="StreamFyBD", t.me/StreamFyBD
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE BANGLA
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS", TOFFEE BANGLA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESHI ENTERTAINMENT", BTV HD
